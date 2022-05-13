@@ -1,0 +1,14 @@
+.footer-section{
+    width: 100%;
+    height: auto;
+    background-color: black;
+    
+    text-align: center;
+}
+.footer-section p{
+    color: rgb(56, 54, 54);
+}
+.footer-section a{
+    color: rgb(56, 54, 54);
+    text-decoration: none;
+}

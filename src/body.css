@@ -1,0 +1,54 @@
+.banner-container{
+    margin: 0;
+    padding: 0;
+    margin-top: 0;
+    display: flex;
+    width: 100%;
+    height: 100vh;
+    background:linear-gradient(rgba(8, 8, 8, 0.568), rgb(73, 73, 67)),url(./images/ieltspic.png) ;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position:center;
+    background-size: auto;
+    align-items: center;
+}
+.banner-container .containers{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-family: 'Times New Roman', Times, serif;
+    width: 100%;
+}
+.left_sections{
+    width: 100%;
+    margin-left: 20px;
+}
+/* .left_section h1{
+    margin: 0;
+    color: white;
+    letter-spacing: 1px;
+    font-size: 60px;
+
+} */
+.left_sections h2{
+    margin: 0;
+    font-size: 35px;
+    letter-spacing: 1px;
+    color: rgba(255, 254, 246,0.884);
+    margin-top: 20px;
+    line-height: 28px;
+
+}
+.left_sections img{
+    width: 20px;
+    height: 20px;
+    color: black;
+}
+.left_sections a{
+    text-decoration: none;
+    color: white;
+}
+/* Left Section End */
+
+
+

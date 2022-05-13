@@ -1,0 +1,22 @@
+.header_section{
+    background-color: rgb(158, 154, 154);
+    border-top: 2px solid rgb(158, 154, 154);
+    box-sizing: border-box; 
+    padding: 10px;
+    height: auto;
+}
+
+.contact-box img{
+    width: 18px;
+    height: 18px;
+}
+.contact-box a{
+    font-size: 16px;
+    text-decoration: none;
+    color: rgb(43, 40, 40);   
+}  
+
+
+
+
+
